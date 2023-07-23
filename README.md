@@ -43,9 +43,29 @@ Under normal circumstances, after inserting the microUSB data cable, the followi
 
 二、 Start burning
 
-    Please include Jetson in the information_ Boot_ Transferring the USB.tar.gz file to Ubuntu18.04 system, and open the terminal to run the decompression command.
+1. Please include Jetson in the information_ Boot_ Transferring the USB.tar.gz file to Ubuntu18.04 system, and open the terminal to run the decompression     command.
 
+```bash
 tar xzvf Jetson_Boot_USB.tar.gz
+```
+
+
+![output image](http://www.yahboom.net/public/upload/upload-html/1683343250/2023041100004.png))<br/><br/> 
+
+2. After decompression, enter Jetson from_ Boot_ USB folder, and then
+
+```bash
+   cd Jetson_Boot_USB/
+   ls
+   ```
+	
+
+![output image](http://www.yahboom.net/public/upload/upload-html/1683343250/2023041100005.png))<br/><br/> 
+	
+
+   
+4. ASDAD
+
 
 
 
